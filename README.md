@@ -21,7 +21,7 @@ Directly run demo.py to reproduce the results on the Samson data, which exists i
 If you want to run the code in your own data, you can accordingly change the input (e.g., data) and tune the parameters.
 Please note that 
 1) the shape of the input matrix.
-2) if the endmemebers are not given in advance, the code would automatically extract the endmembers from HSI using VCA.
+2) The init endmemebers should be given in advance.
 
 If you encounter the bugs while using this code, please do not hesitate to contact us.
 (hanzhu19@mails.ucas.ac.cn)
