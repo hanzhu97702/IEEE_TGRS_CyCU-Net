@@ -5,9 +5,22 @@ CyCU-Net: Cycle-Consistency Unmixing Network by Learning Cascaded Autoencoders
 The code in this toolbox implements the "CyCU-Net: Cycle-Consistency Unmixing Network by Learning Cascaded Autoencoders".
 More specifically, it is detailed as follow
 
-L. Gao, Z. Han, D. Hong, B. Zhang and J. Chanussot, "CyCU-Net: Cycle-Consistency Unmixing Network by Learning Cascaded Autoencoders," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3064958.
+L. Gao, Z. Han, D. Hong, B. Zhang and J. Chanussot, "CyCU-Net: Cycle-Consistency Unmixing Network by Learning Cascaded Autoencoders," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-14, 2022, Art no. 5503914, doi: 10.1109/TGRS.2021.3064958.
 
 Please kindly cite the papers if this code is useful and helpful for your research.
+
+```bash
+@article{gao2021cycu,
+  title={CyCU-Net: Cycle-consistency unmixing network by learning cascaded autoencoders},
+  author={Gao, Lianru and Han, Zhu and Hong, Danfeng and Zhang, Bing and Chanussot, Jocelyn},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--14},
+  note = {DOI: 10.1109/TGRS.2021.3064958},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
 System-specific notes
 ---------------------
